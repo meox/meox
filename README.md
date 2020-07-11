@@ -17,7 +17,7 @@
 - Distributed system
 - Crypto-stuff
 
-#### previous work (commprove spa)
+#### previous work (senior sw engineer @Commprove spa)
 
 - C++14/C++17 developer (high performance aggregation framework)
 - Spark & Big data analysis (almost written in Scala)
