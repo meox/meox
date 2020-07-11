@@ -7,7 +7,7 @@
 
 #### learning
 
-- Rutst
+- 🦀 Rust
 - Clojure
 - eBPF
 
