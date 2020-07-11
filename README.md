@@ -1,4 +1,4 @@
-### sw developer 👽
+### senior sw developer 👽
 
 ### main programming language
 - Go, C++17
