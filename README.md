@@ -2,7 +2,8 @@
 
 ### main programming language
 - Go, C++17
-- Elixir, Erlang (a little bit)
+- Elixir
+- Erlang (a little bit)
 
 #### learning
 
@@ -16,6 +17,11 @@
 - Distributed system
 - Crypto-stuff
 
+#### previous work (commprove spa)
+
+- C++14/C++17 developer
+- Spark & Big data analisys (almost written in Scala)
+- Unix/Linux sys dev
 
 <!--
 **meox/meox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
