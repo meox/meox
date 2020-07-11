@@ -11,7 +11,7 @@
 - Clojure
 - eBPF
 
-#### at work (senior sw engineer @Rstor.io)
+#### current work (senior sw engineer @Rstor.io)
 
 - Go developer (S3 layer)
 - Distributed system
