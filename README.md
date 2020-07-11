@@ -19,8 +19,8 @@
 
 #### previous work (commprove spa)
 
-- C++14/C++17 developer
-- Spark & Big data analisys (almost written in Scala)
+- C++14/C++17 developer (high performance aggregation framework)
+- Spark & Big data analysis (almost written in Scala)
 - Unix/Linux tools and sw
 
 <!--
