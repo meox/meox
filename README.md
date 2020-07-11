@@ -21,7 +21,7 @@
 
 - C++14/C++17 developer
 - Spark & Big data analisys (almost written in Scala)
-- Unix/Linux sys dev
+- Unix/Linux tools and sw
 
 <!--
 **meox/meox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
