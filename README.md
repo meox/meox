@@ -1,4 +1,21 @@
-### Hi there 👋
+### sw developer 👽
+
+### main programming language
+- Go, C++17
+- Elixir, Erlang (a little bit)
+
+#### learning
+
+- Rutst
+- Clojure
+- eBPF
+
+#### at work (senior sw engineer @Rstor.io)
+
+- Go developer (S3 layer)
+- Distributed system
+- Crypto-stuff
+
 
 <!--
 **meox/meox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
