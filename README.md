@@ -7,8 +7,8 @@
 
 #### learning
 
-- 🦀 Rust
 - Clojure
+- 🦀 Rust
 - eBPF
 
 #### current work (senior sw engineer @Rstor.io)
