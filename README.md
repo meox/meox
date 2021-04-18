@@ -13,7 +13,7 @@
 
 #### current work (senior sw engineer @Rstor.io)
 
-- Go developer (storage S3 layer)
+- Go developer (fast distributed data transfer pipeline for S3, storage S3 layer)
 - Distributed system
 - Crypto-stuff
 
