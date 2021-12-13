@@ -1,8 +1,9 @@
 ### senior sw developer 👽
 
 ### main programming language
-- Go, C++17
+
 - Elixir, Erlang
+- Go, C++17
 
 #### learning
 
